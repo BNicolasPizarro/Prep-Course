@@ -1,0 +1,40 @@
+body{
+    background:
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaUvfpSbN704Yl8FBlM4Ef8ywt5laJSBt3YA&usqp=CAU") center fixed;
+}
+    
+.divClass h1{
+    color:dodgerblue ;
+    text-align: center;
+}
+.divClass h3, h4{
+    text-align: center;
+}
+.divClass #spanId{
+    font-size: 18px;
+    margin: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.divClass a{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+ul{
+    display: flex;
+    justify-content:center;
+}
+ul li img{
+    width: 400px;
+    padding: 10px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color:lightcoral ;
+    padding: 50px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
